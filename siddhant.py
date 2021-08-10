@@ -1042,10 +1042,10 @@ async def _(event):
     if event.fwd_from:
         return
     
-    Repo = f"[Click Here](https://github.com/unknownforall1/LEGACY-LEAVERS-MULTI-SPAM-BOT)"
-    Deploy = f"[Click Here](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FUNKNOWNFORALL1%2Flegacy-leavers-multi-spam-bot)"
+    Repo = f"[Click Here](https://github.com/Deadfigther/draco)"
+    Deploy = f"[Click Here](https://dashboard.heroku.com/new?template=https%3A%2F%2FDeadfigthergithub.com%2F1%2Fdraco)"
     await edit_or_reply(
-        event, f"**LEGACY LEAVERS SPAM BOT REPO:** {Repo}\n\n**Deploy Now:** {Deploy}"
+        event, f"**𝐃𝐑𝐀𝐂𝐎 𝐑𝐄𝐏𝐎:** {Repo}\n\n** 𝐃𝐄𝐏𝐋𝐎𝐘 𝐍𝐎𝐖:** {Deploy}"
     )
 
 
@@ -1226,11 +1226,11 @@ async def _(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "💥💣𝐋𝐄𝐆𝐀𝐂𝐘  𝐋𝐄𝐀𝐕𝐄𝐑𝐒  𝐁𝐎𝐓💣💥!"
+        text = "🔥𝑫𝑹𝑨𝑪𝑶-𝑩𝑶𝑻🔥!"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f" 𝙋𝙄𝙉𝙂 !\n`{ms}` ms {ALIVE_NAME} ")
+        await event.edit(f" 𝙋𝙄𝙉𝙂 !\n`{ms}` ms {ALIVE_NAME} 𝑫𝑹𝑨𝑪𝑶-𝑩𝑶𝑻")
 
 
 
