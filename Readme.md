@@ -1,11 +1,11 @@
-# LEGACY LEAVERS MULTI SPAM BOT
+# DRACO-SPAM-BOT
 
-### MODIFIED OF [YUKKI MULTI SPAM  BOT](https://github.com/YukkiBot/YukkiMultiSpamBot)
+### MODIFIED OF [YUKKI](https://github.com/YukkiBot/YukkiMultiSpamBot)
 ### MODIFIED BY 
    - [SIDDHANT](https://t.me/siddhant_devil)
-   - [SIDDHARTH](https://t.me/)
+   - [DEADFIGHTER OWNER](https://t.me/)
 <p align="center">
-  <img src="https://telegra.ph/file/1ab1755793d666c714c23.jpg">
+  <img src="https://telegra.ph/file/cf315fb759f324d3bbb0b.jpg">
 </p>
 
 
@@ -40,11 +40,11 @@ No Requirement of API ID and API HASH
 
 
 ## SUPPORT GROUP
-   - Join [LEGACY LEAVERS](@RDX_ON_FIRE) for any assistance.
+   - Join [DRACO SUPPORT](@RDX_ON_FIRE) for any assistance.
 
 
 ## JOIN SUPPORT CHANNEL
-   - Join [LEGACY LEAVERS CHANNEL](https://t.me/legacy_leavers_spam_bot)
+   - Join [DRACO-CHANNEL](https://t.me/legacy_leavers_spam_bot)
 
 
 ## Credits
