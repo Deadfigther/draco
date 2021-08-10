@@ -13,7 +13,7 @@
 ## 🚀 Deploy on Heroku 
 ### CLICK ON IMAGE FOR DEPLOY👇👇👇👇👇👇👇👇
 
-[![Deploy](https://telegra.ph/file/dd18965b24cda4804502f.jpg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdeadfigther1%2Fdraco)
+[![Deploy](https://telegra.ph/file/dd18965b24cda4804502f.jpg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FDeadfigther1%2Fdraco)
 
 
 
