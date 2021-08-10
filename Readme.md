@@ -3,7 +3,7 @@
 ### MODIFIED OF [YUKKI](https://github.com/YukkiBot/YukkiMultiSpamBot)
 ### MODIFIED BY 
    - [SIDDHANT](https://t.me/siddhant_devil)
-   - [DEADFIGHTER OWNER](https://t.me/)
+   - [DEADFIGHTER OWNER](https://t.me/DEADFIGHTER_OP)
 
 <p align="center">
   <img src="https://telegra.ph/file/cf315fb759f324d3bbb0b.jpg">
